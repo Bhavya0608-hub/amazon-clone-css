@@ -1,0 +1,24 @@
+# 🛒 Amazon Home Page Clone
+
+A static clone of the **Amazon home page**, built using **HTML** and **CSS**. This project replicates the layout and styling of Amazon’s front page to practice front-end design skills.
+
+## 🎯 Features
+- Header with logo, search bar, and navigation links
+- Product sections with images and category banners
+- Responsive layout using CSS Flexbox/Grid
+- Footer with useful links
+
+## 💻 Technologies Used
+- HTML
+- CSS
+
+## 🚀 How to View
+1. Clone or download the repository.
+2. Open `index.html` in any web browser.
+
+## 📁 Project Structure
+├── index.html
+└── style.css
+
+## 📌 Note
+This is a **frontend-only** project created for learning purposes. No backend functionality (e.g., cart, login) is included.
